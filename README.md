@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Sleeksofficial
-- 👀 I’m interested in data analysis and project management
-- 🌱 I’m currently learning phyton and C++
-- 💞️ I’m looking to collaborate on Javascripts, UI/UX, Pyhton
+- 👀 Business and Financial Analyst with experience in data-driven decision making, financial modeling, and dashboard creation
+- 🌱 Excel, Power BI, Tableau, SQL, Python (Pandas, NumPy, matplotlib), R, financial modeling, forecasting.
+- 💞️ https://wwww.linkedin.com/in/sleeksofficial
 - 📫 How to reach me +19284875252
 
 <!---
-Sleeksofficial 2022
+Sleeksofficial 2025
 --->
