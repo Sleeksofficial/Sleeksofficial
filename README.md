@@ -2,7 +2,7 @@
 
 💼 Business & Financial Analyst | ICT Business Analyst  
 📍 Based in Dubai, UAE  
-📊 8+ years of experience in financial modeling, ERP system integration, ICT business analysis, and data-driven decision making.
+📊 9+ years of experience in financial modeling, ERP system integration, ICT business analysis, and data-driven decision making.
 
 ## 🔧 Tools & Technologies
 - Power BI, Tableau, Excel (Advanced Modeling)
