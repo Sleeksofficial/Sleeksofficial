@@ -15,4 +15,4 @@
 - 📊 [Power BI Financial Dashboard](https://github.com/OloruntobaAnate/powerbi-financial-dashboard)
 - 🧾 [Automated Invoicing & Reporting System](https://github.com/OloruntobaAnate/automated-reporting)
 
-📫 anatepapilo@gmail.com | [LinkedIn](https://www.linkedin.com/in/oloruntoba-anate)
+📫 anatepapilo@gmail.com | [LinkedIn](https://www.linkedin.com/in/sleeksofficial)
