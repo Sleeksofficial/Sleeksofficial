@@ -11,8 +11,8 @@
 - Agile Project Management, PRINCE2 (in progress)
 
 ## 📌 Featured Projects
-- 📈 [ERP System Integration Analysis](https://github.com/OloruntobaAnate/erp-system-integration)
-- 📊 [Power BI Financial Dashboard](https://github.com/OloruntobaAnate/powerbi-financial-dashboard)
-- 🧾 [Automated Invoicing & Reporting System](https://github.com/OloruntobaAnate/automated-reporting)
+- 📈 [ERP System Integration Analysis](https://github.com/sleeksofficial/erp-system-integration)
+- 📊 [Power BI Financial Dashboard](https://github.com/sleeksofficial/powerbi-financial-dashboard)
+- 🧾 [Automated Invoicing & Reporting System](https://github.com/sleeksofficial/automated-reporting)
 
 📫 anatepapilo@gmail.com | [LinkedIn](https://www.linkedin.com/in/sleeksofficial)
