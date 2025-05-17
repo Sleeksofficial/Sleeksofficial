@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a results-oriented business and financial analyst with
 
 ## 📂 Featured Projects
 
-🔸 [`Business, Data & Financial Analytics Portfolio`](https://github.com/Sleeksofficial/business-financial-analytics-portfolio)  
+🔸 [`Business, Data & Financial Analytics Portfolio`](https://github.com/Sleeksofficial/business-financial-analytics-portfolios)  
 A portfolio of end-to-end analytics projects in sales analysis, customer segmentation, and financial forecasting using Python, Jupyter, and Prophet.
 
 ---
